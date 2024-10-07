@@ -1,0 +1,91 @@
+./main 5 2
+Main process (PID: 86953) beginning
+Process 1 (PID: 86954) beginning
+Process 1 (PID: 86954) creating Process 2
+Process 2 (PID: 86969) beginning
+Process 2 (PID: 86969) creating Process 3
+Process 3 (PID: 86974) beginning
+Process 3 (PID: 86974) creating Process 4
+Process 4 (PID: 86983) beginning
+Process 4 (PID: 86983) creating Process 5
+Process 5 (PID: 86996) beginning
+Process 5 (PID: 86996) exiting
+Process 4 (PID: 86983) exiting
+Process 3 (PID: 86974) exiting
+Process 2 (PID: 86969) exiting
+Process 1 (PID: 86954) exiting
+Main process (PID: 86953) exiting
+./main 4 1
+Main process (PID: 87068) beginning
+Process 4 (PID: 87069) beginning
+Process 4 (PID: 87069) creating Process 3
+Process 3 (PID: 87078) beginning
+Process 3 (PID: 87078) creating Process 2
+Process 2 (PID: 87087) beginning
+Process 2 (PID: 87087) creating Process 1
+Process 1 (PID: 87104) beginning
+Process 1 (PID: 87104) exiting
+Process 2 (PID: 87087) exiting
+Process 3 (PID: 87078) creating Process 1
+Process 1 (PID: 87121) beginning
+Process 1 (PID: 87121) exiting
+Process 3 (PID: 87078) exiting
+Process 4 (PID: 87069) creating Process 2
+Process 2 (PID: 87140) beginning
+Process 2 (PID: 87140) creating Process 1
+Process 1 (PID: 87151) beginning
+Process 1 (PID: 87151) exiting
+Process 2 (PID: 87140) exiting
+Process 4 (PID: 87069) creating Process 1
+Process 1 (PID: 87171) beginning
+Process 1 (PID: 87171) exiting
+Process 4 (PID: 87069) exiting
+Main process (PID: 87068) exiting
+./main 5 2
+Main process (PID: 87631) beginning
+Process 1 (PID: 87632) beginning
+Process 1 (PID: 87632) creating Process 2
+Process 2 (PID: 87635) beginning
+Process 2 (PID: 87635) creating Process 3
+Process 3 (PID: 87640) beginning
+Process 3 (PID: 87640) creating Process 4
+Process 4 (PID: 87649) beginning
+Process 4 (PID: 87649) creating Process 5
+Process 5 (PID: 87654) beginning
+Process 5 (PID: 87654) exiting
+Process 4 (PID: 87649) exiting
+Process 3 (PID: 87640) exiting
+Process 2 (PID: 87635) exiting
+Process 1 (PID: 87632) exiting
+Main process (PID: 87631) exiting
+./main 5 2
+Main process (PID: 87785) beginning
+Process 1 (PID: 87786) beginning
+Process 1 (PID: 87786) creating Process 2
+Process 2 (PID: 87801) beginning
+Process 2 (PID: 87801) creating Process 3
+Process 3 (PID: 87810) beginning
+Process 3 (PID: 87810) creating Process 4
+Process 4 (PID: 87821) beginning
+Process 4 (PID: 87821) creating Process 5
+Process 5 (PID: 87830) beginning
+Process 5 (PID: 87830) exiting
+Process 4 (PID: 87821) exiting
+Process 3 (PID: 87810) exiting
+Process 2 (PID: 87801) exiting
+Process 1 (PID: 87786) exiting
+Main process (PID: 87785) exiting
+./main 5 3
+Main process (PID: 88591) beginning
+Process 1 (PID: 88592) beginning
+Process 1 (PID: 88592) creating Process 2
+Process 2 (PID: 88611) beginning
+Process 2 (PID: 88611) creating Process 4
+Process 3 (PID: 88630) beginning
+Process 3 (PID: 88630) exiting
+Process 2 (PID: 88611) exiting
+Process 1 (PID: 88592) creating Process 3
+Process 2 (PID: 88631) beginning
+Process 2 (PID: 88631) exiting
+Process 1 (PID: 88592) exiting
+Main process (PID: 88591) exiting
